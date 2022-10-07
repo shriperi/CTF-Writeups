@@ -19,7 +19,7 @@ There was also a hint for this challenge
 ![](img/hint.png)
 
 Hmm aliens I have earlier used this Alien Language So I just went to dcode.fr and decode the flag !! (https://www.dcode.fr/alien-language)
-Note : You will not be able to find some of the charaters like 3 and _ so just use your keyboard at that time !!
+```Note : You will not be able to find some of the charaters like 3 and _ so just use your keyboard at that time !!```
 
 ![](img/flag.png)
 
