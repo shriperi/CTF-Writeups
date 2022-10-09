@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Securinets Friendly CTF 2022 
 
 
